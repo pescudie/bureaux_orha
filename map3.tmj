@@ -150,8 +150,8 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2922, 2926, 2926, 2926, 2926, 2926, 2926, 2926, 2923, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2743, 2925, 2927, 2927, 2927, 2927, 2927, 2927, 2927, 2924, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -481,12 +481,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
+                         "value":"OrhaChillZone"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -530,7 +525,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"ReunionOrha1"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -567,12 +562,17 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"ReunionOrha2"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Appuyer sur la touche espace pour entrer dans l'espace de visio"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -630,6 +630,23 @@
                  "width":32,
                  "x":64,
                  "y":832
+                }, 
+                {
+                 "height":62,
+                 "id":31,
+                 "name":"silentZoneInterieure",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":281,
+                 "x":353,
+                 "y":673
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -730,7 +747,7 @@
          "y":0
         }],
  "nextlayerid":65,
- "nextobjectid":31,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {
