@@ -1242,7 +1242,7 @@
                         {
                          "name":"zoom_margin",
                          "type":"float",
-                         "value":0.4
+                         "value":3
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1877,6 +1877,19 @@
          "name":"ORHA_contenu",
          "spacing":0,
          "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":3052,
+         "image":"tilesets\/download\/Interiors_free_32x32.png",
+         "imageheight":2848,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Int\u00e9rieur",
+         "spacing":0,
+         "tilecount":1424,
          "tileheight":32,
          "tilewidth":32
         }],
