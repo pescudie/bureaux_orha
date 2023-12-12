@@ -1250,6 +1250,46 @@
                  "width":181.333333333333,
                  "x":374.666666666667,
                  "y":1274.66666666667
+                }, 
+                {
+                 "height":53,
+                 "id":43,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Rounded Elegance",
+                     "halign":"center",
+                     "pixelsize":27,
+                     "text":"Salle 2",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":158.333333333333,
+                 "x":832.833333333333,
+                 "y":438.166666666667
+                }, 
+                {
+                 "height":53,
+                 "id":44,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Rounded Elegance",
+                     "halign":"center",
+                     "pixelsize":27,
+                     "text":"Salle 1",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":158.333,
+                 "x":834.166833333333,
+                 "y":628.166666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1695,7 +1735,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":43,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "properties":[
         {
