@@ -538,6 +538,11 @@
                          "value":"onaction"
                         }, 
                         {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Appuyer sur la touche espace pour entrer dans l'espace de visio"
+                        }, 
+                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":1
@@ -725,7 +730,7 @@
          "y":0
         }],
  "nextlayerid":65,
- "nextobjectid":25,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
