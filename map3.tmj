@@ -1340,6 +1340,12 @@
                  "y":523
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"tutorial",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
