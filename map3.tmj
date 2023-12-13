@@ -1254,7 +1254,7 @@
                 {
                  "height":37.0000000000001,
                  "id":43,
-                 "name":"",
+                 "name":"Num\u00e9ro Salle 1",
                  "rotation":0,
                  "text":
                     {
@@ -1272,7 +1272,7 @@
                 {
                  "height":37,
                  "id":45,
-                 "name":"",
+                 "name":"Num\u00e9ro Salle 2",
                  "rotation":0,
                  "text":
                     {
@@ -1286,6 +1286,58 @@
                  "width":109,
                  "x":862.833333333333,
                  "y":448.166666666667
+                }, 
+                {
+                 "height":0,
+                 "id":47,
+                 "name":"Musique salle principale",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":-2,
+                         "y":210
+                        }, 
+                        {
+                         "x":668,
+                         "y":212
+                        }, 
+                        {
+                         "x":666,
+                         "y":-74
+                        }, 
+                        {
+                         "x":218,
+                         "y":-74
+                        }, 
+                        {
+                         "x":220,
+                         "y":6
+                        }],
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.2
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/www.auboutdufil.com\/get.php?web=https:\/\/archive.org\/download\/nova-noma-gaia\/NovaNoma-Gaia.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":0,
+                 "x":33,
+                 "y":523
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1731,7 +1783,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":46,
+ "nextobjectid":48,
  "orientation":"orthogonal",
  "properties":[
         {
