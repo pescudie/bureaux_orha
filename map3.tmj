@@ -1334,7 +1334,7 @@
                         }],
                  "rotation":0,
                  "type":"area",
-                 "visible":true,
+                 "visible":false,
                  "width":0,
                  "x":33,
                  "y":523
