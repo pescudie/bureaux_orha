@@ -1305,15 +1305,15 @@
                          "y":216
                         }, 
                         {
-                         "x":319,
-                         "y":150
+                         "x":318,
+                         "y":152
                         }, 
                         {
                          "x":605,
-                         "y":154
+                         "y":151
                         }, 
                         {
-                         "x":604,
+                         "x":606,
                          "y":216
                         }, 
                         {
@@ -1334,9 +1334,9 @@
                         }],
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.2
                         }, 
                         {
                          "name":"playAudio",
@@ -1345,27 +1345,21 @@
                         }],
                  "rotation":0,
                  "type":"area",
-                 "visible":false,
+                 "visible":true,
                  "width":0,
                  "x":33,
                  "y":518
                 }, 
                 {
-                 "height":313,
-                 "id":50,
-                 "name":"Musique",
-                 "properties":[
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.elaborha.fr\/wp-content\/uploads\/2023\/12\/NovaNoma-Gaia-1.mp3"
-                        }],
+                 "height":0,
+                 "id":52,
+                 "name":"",
                  "rotation":0,
-                 "type":"area",
+                 "type":"",
                  "visible":true,
-                 "width":677,
-                 "x":30,
-                 "y":512
+                 "width":0,
+                 "x":-143,
+                 "y":477
                 }],
          "opacity":1,
          "properties":[
@@ -1817,7 +1811,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":51,
+ "nextobjectid":54,
  "orientation":"orthogonal",
  "properties":[
         {
