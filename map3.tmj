@@ -1339,11 +1339,6 @@
                          "value":true
                         }, 
                         {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.5
-                        }, 
-                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"https:\/\/www.elaborha.fr\/wp-content\/uploads\/2023\/12\/NovaNoma-Gaia-1.mp3"
