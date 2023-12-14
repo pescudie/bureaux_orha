@@ -1330,11 +1330,11 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/www.auboutdufil.com\/get.php?web=https:\/\/archive.org\/download\/nova-noma-gaia\/NovaNoma-Gaia.mp3"
+                         "value":"https:\/\/ia903403.us.archive.org\/4\/items\/nova-noma-gaia\/NovaNoma-Gaia.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
-                 "visible":false,
+                 "visible":true,
                  "width":0,
                  "x":33,
                  "y":523
