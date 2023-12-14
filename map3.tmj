@@ -1290,7 +1290,7 @@
                 {
                  "height":0,
                  "id":49,
-                 "name":"",
+                 "name":"Musique",
                  "polygon":[
                         {
                          "x":0,
@@ -1349,7 +1349,7 @@
                          "value":"https:\/\/www.elaborha.fr\/wp-content\/uploads\/2023\/12\/NovaNoma-Gaia-1.mp3"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":0,
                  "x":33,
