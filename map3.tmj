@@ -1048,7 +1048,7 @@
                  "id":12,
                  "name":"clockPopup",
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":93.7162209047986,
                  "x":609.919325398621,
@@ -1263,7 +1263,7 @@
                      "text":"Salle 1",
                      "wrap":true
                     },
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":109,
                  "x":864.833333333333,
@@ -1281,52 +1281,17 @@
                      "text":"Salle 2",
                      "wrap":true
                     },
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":109,
                  "x":862.833333333333,
                  "y":448.166666666667
                 }, 
                 {
-                 "height":0,
-                 "id":47,
-                 "name":"Musique salle principale",
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":-2,
-                         "y":210
-                        }, 
-                        {
-                         "x":668,
-                         "y":212
-                        }, 
-                        {
-                         "x":666,
-                         "y":-74
-                        }, 
-                        {
-                         "x":218,
-                         "y":-74
-                        }, 
-                        {
-                         "x":220,
-                         "y":6
-                        }],
+                 "height":222,
+                 "id":48,
+                 "name":"Musique",
                  "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.5
-                        }, 
                         {
                          "name":"playAudio",
                          "type":"string",
@@ -1335,9 +1300,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":0,
-                 "x":33,
-                 "y":523
+                 "width":445,
+                 "x":258,
+                 "y":447
                 }],
          "opacity":1,
          "properties":[
@@ -1789,7 +1754,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":48,
+ "nextobjectid":49,
  "orientation":"orthogonal",
  "properties":[
         {
