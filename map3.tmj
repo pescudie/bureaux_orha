@@ -1288,21 +1288,72 @@
                  "y":448.166666666667
                 }, 
                 {
-                 "height":222,
-                 "id":48,
-                 "name":"Musique",
+                 "height":0,
+                 "id":49,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":1,
+                         "y":216
+                        }, 
+                        {
+                         "x":317,
+                         "y":216
+                        }, 
+                        {
+                         "x":319,
+                         "y":150
+                        }, 
+                        {
+                         "x":605,
+                         "y":154
+                        }, 
+                        {
+                         "x":604,
+                         "y":216
+                        }, 
+                        {
+                         "x":671,
+                         "y":216
+                        }, 
+                        {
+                         "x":670,
+                         "y":-73
+                        }, 
+                        {
+                         "x":211,
+                         "y":-71
+                        }, 
+                        {
+                         "x":210,
+                         "y":21
+                        }],
                  "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/www.elaborha.fr\/wp-content\/uploads\/2023\/12\/cafe.mp3"
+                         "value":"https:\/\/www.elaborha.fr\/wp-content\/uploads\/2023\/12\/NovaNoma-Gaia-1.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"",
                  "visible":true,
-                 "width":445,
-                 "x":258,
-                 "y":447
+                 "width":0,
+                 "x":33,
+                 "y":518
                 }],
          "opacity":1,
          "properties":[
@@ -1754,7 +1805,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":49,
+ "nextobjectid":50,
  "orientation":"orthogonal",
  "properties":[
         {
